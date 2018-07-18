@@ -14,7 +14,7 @@ you can follow the below wiki from Three.js
 https://github.com/mrdoob/three.js/wiki/How-to-run-things-locally
 
 
-### Few Facts
+# Few Facts
 Note: this page is a great way to try React but it's not suitable for production.
 It slowly compiles JSX with Babel in the browser and uses a large development build of React.
 
