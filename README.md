@@ -1,8 +1,11 @@
 # react-without-build-tools-example
-A simple example to show how react.js can be use without any build tools like webpack or any kind of build tools. Using React is very easy which most of us don't know yet. I've tried to put it together what i've learned from the official docs with the below reference.
+A simple Hello React example to show how react.js can be use without any build tools like webpack or any kind of build tools. Using React is very easy which most of us don't know yet. I've tried to put it together what i've learned from the official docs with the below docs reference.
 
 # Reference official React docs
 https://reactjs.org/docs/add-react-to-a-website.html
+
+# DEMO
+https://react-without-build-tools-example-eisruzojja.now.sh/
 
 # How to Run
  - clone the repo
