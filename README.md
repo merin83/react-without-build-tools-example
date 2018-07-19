@@ -34,8 +34,8 @@ https://reactjs.org/docs/react-without-jsx.html
 First i heard about it from the below tweet
 https://twitter.com/dan_abramov/status/1011995700748521477
 
-I get to know about it from a small conversation with 
-[Tareq Vai](https://github.com/tarex/)
+I get to know about it @[REDQ](https://github.com/RedQ)from a small conversation with 
+[Tareq](https://github.com/tarex/) Vai
 
 we discussed about a tweet from [Dan Abramov](https://github.com/gaearon)
 https://twitter.com/dan_abramov/status/1019315019836739584
